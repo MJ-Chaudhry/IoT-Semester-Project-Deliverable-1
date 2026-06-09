@@ -21,11 +21,12 @@ Below is a list of each of the optimal environmental measures:
 
 | Environmental Property      | Value |
 | --------------------------- | ----- |
-| Temperature                 |       |
-| Relative humidity           |       |
-| Soil type                   |       |
-| Soil pH                     |       |
-| Number of hours in sunlight |       |
+| Temperature                 |  4°C – 16°C (day), 5°C – 10°C (night)  |
+| Relative humidity           |  60% – 80%  |
+| Soil type                   |  Well-draining loamy or sandy loam  |
+| Soil Moisture Content       |  50% – 70% of field capacity  |
+| Soil pH                     |  6.0 – 7.0 (ideal: 6.5)  |
+| Number of hours in sunlight |  6 – 8 hours per day  |
 
 ## List of Hardware Materials Needed
 Below is a list of the hardware needed to build the project:
