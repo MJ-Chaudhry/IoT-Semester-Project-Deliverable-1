@@ -35,11 +35,11 @@ Below is a list of the hardware needed to build the project:
 
 ## Datasheets for Components
 The datasheets for the following components can be found in the PDF attached to this repository:
-- 1.3" WHite IIC 128x64 OLED LCD - [link](insert-link-here)
-- ESP32 DevKIT WIFI + BLE Module (30Pin) - [link](insert-link-here)
-- DHT22 AM2302 Tempurature and HUmidity Sensor - [link](insert-link-here)
-- MQ-5 LPG, natural gas, coal gas Sensor - [link](insert-link-here)
-- 5V 1-Channel Low Level Trigger - [link](insert-link-here)
+- 1.3" WHite IIC 128x64 OLED LCD - [link](i[nsert-link-here](https://www.lcdtftscreen.com/doc/53306934/1-3-inch-i2c-oled-display-module-white-color-128x64-resolution-sh1106.pdf))
+- ESP32 DevKIT WIFI + BLE Module (30Pin) - [link](i[nsert-link-here](https://www.espboards.dev/esp32/esp32doit-devkit-v1/))
+- DHT22 AM2302 Tempurature and HUmidity Sensor - [link](i[nsert-link-here)](https://download.mikroe.com/documents/datasheets/DHT22_datasheet.pdf)
+- MQ-5 LPG, natural gas, coal gas Sensor - [link]([insert-link-here](https://datasheet4u.com/datasheet-pdf/HANWEI ELETRONICS/MQ-5/pdf.php?id=904638))
+- 5V 1-Channel Low Level Trigger - [link]([insert-link-here](https://www.alldatasheet.com/datasheet-pdf/pdf/1132639/SONGLERELAY/SRD-05VDC-SL-C.html))
 
 ## Schematic Diagrams
 ### Diagram 1
