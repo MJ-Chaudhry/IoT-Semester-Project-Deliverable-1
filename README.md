@@ -1,5 +1,5 @@
 # Semester Project - Deliverable 1
-#### By Group 5 - Clyde, Lee, Vinit, Samwel, and Junaid.
+#### By Group 5 (Verdant) - Clyde, Lee, Vinit, Samwel, and Junaid.
 
 ## Table of Contents
 - [Background](#background)
@@ -35,11 +35,11 @@ Below is a list of the hardware needed to build the project:
 
 ## Datasheets for Components
 The datasheets for the following components can be found in the PDF attached to this repository:
-- 1.3" WHite IIC 128x64 OLED LCD
-- ESP32 DevKIT WIFI + BLE Module (30Pin)
-- DHT22 AM2302 Tempurature and HUmidity Sensor
-- MQ-5 LPG, natural gas, coal gas Sensor
-- 5V 1-Channel Low Level Trigger
+- 1.3" WHite IIC 128x64 OLED LCD - [link](insert-link-here)
+- ESP32 DevKIT WIFI + BLE Module (30Pin) - [link](insert-link-here)
+- DHT22 AM2302 Tempurature and HUmidity Sensor - [link](insert-link-here)
+- MQ-5 LPG, natural gas, coal gas Sensor - [link](insert-link-here)
+- 5V 1-Channel Low Level Trigger - [link](insert-link-here)
 
 ## Schematic Diagrams
 ### Diagram 1
