@@ -49,8 +49,8 @@ The datasheets for the following components can be found in the PDF attached to 
 
 ## Schematic Diagrams
 ### Diagram 1
-
+![Part4a-Schematic-Diagram](/Part4a-Schematic-Diagram.png)
 ### Diagram 2
-
+![Part4b-Schematic-Diagram](/Part4b-Schematic-Diagram.png)
 ### Diagram 3
 ![Part4c-Schematic-Diagram](/Part4c-Schematic-Diagram.png)
